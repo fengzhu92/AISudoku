@@ -1,2 +1,3 @@
 # CNN Sudoku Solver
-Use AI to recognize sudoku puzzles 
+Use AI and Computer Vision to recognize sudoku puzzles 
+Build intuitive Graphic User Interface with Qt
